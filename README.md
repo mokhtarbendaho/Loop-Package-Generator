@@ -10,11 +10,13 @@ Download and install the latest version of Python from:
 
 www.python.org/downloads
 
+
 **Step 02:**
 
 Confirm Python & PyPDF2 installation by clicking "Verify & Install PyPDF2"
 
 **Note:** The PyPDF2 library will be automatically installed upon clicking the button.
+
 
 **Step 03:**
 Test the Loop Package Generator by clicking "Test Loop Package Generator"
