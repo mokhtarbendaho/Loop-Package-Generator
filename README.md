@@ -1,6 +1,14 @@
 ## Getting Started:
 The Loop Package Generator is your solution for effortlessly automating the creation of commissioning loop packages. It seamlessly incorporates all the essential files using VBA, Python, and PyPDF2, making the process simple, fast, and highly effective.
 
+**What to expect from the Loop Package Generator:** 
+
+With one click you will have a:
+
+Front Page + Record Sheets + Attachments + Punch List + P&ID 
+
+All in one single PDF ready to use
+
 ## Important Information:
 The Loop Package Generator works only with Windows for now.
 
@@ -78,6 +86,8 @@ This is a real example of the Loop Package Generator in use: (+200 Folder was cr
 
 **Step 06:** Creation of New Record Sheet
 If you wish to add a new record sheet, follow these steps:
-01. Click "CREATE NEW RECORD SHEET"
+01. Click "CREATE NEW RECORD SHEET" in the LOOP PACKAGES SHEET
 02. Write the record sheet name (ex, Digital Input, Analog Output) and type (ex, AI, AO, DI, DO).
 03. Click "OK" to generate the new record sheet.
+
+![image8](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/21f5babd-1872-4c49-a4ff-472ccfd99978)
