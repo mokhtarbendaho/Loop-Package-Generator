@@ -19,9 +19,11 @@ Confirm Python & PyPDF2 installation by clicking "Verify & Install PyPDF2"
 **Step 03:**
 Test the Loop Package Generator by clicking "Test Loop Package Generator"
 
-Once that is done you should see something like this:
+Once that is done successfully you should see something like this:
 
 ![image1](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/bf3b8769-3f4c-47ab-bed3-1a02e57d07ca)
+
+If Python is not installed or PyPDF2 failed to install
 
 ## How To Use:
 **Content:** The Loop Package Generator will come with the following sheets
@@ -40,7 +42,7 @@ When you open the Excel file for the first time, the following folders will be c
 **Step 01:** Update Project Information 
 Updating the project information is simple, just use the buttons provided
 
-
+![image3](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/1a4eba8d-6231-47de-a856-25201ecb266e)
 
 
 **Step 02:** Fill Out Loop Packages Sheet (An example is provided in the LOOP PACKAGES sheet)
