@@ -70,6 +70,12 @@ Errors:
 **Step 05:** Create Loop Packages
 After verification, click "Create Loop Packages" and check the Loop Packages Folder to find the results.
 
+This is a real example of the Loop Package Generator in use: (+200 Folder was created under 3mn)
+
+![image6](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/7cc91f6b-3ab6-4c4d-b184-553f947bcea5)
+
+![image7](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/46a107b1-8331-4094-8610-238b7ec7f4a1)
+
 **Step 06:** Creation of New Record Sheet
 If you wish to add a new record sheet, follow these steps:
 01. Click "CREATE NEW RECORD SHEET"
