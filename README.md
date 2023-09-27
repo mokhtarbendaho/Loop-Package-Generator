@@ -32,6 +32,8 @@ Once that is done successfully you should see something like this:
 
 ![Untitled-6](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/59ae5f92-4348-4c43-957a-d548a13fc159)
 
+A PDF will be generated and opened automatically with a template of a loop package folder
+
 ## How To Use:
 **Content:** The Loop Package Generator will come with the following sheets
 
