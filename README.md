@@ -1,33 +1,31 @@
-### Getting Started:
+## Getting Started:
 The Loop Package Generator is your solution for effortlessly automating the creation of commissioning loop packages. It seamlessly incorporates all the essential files using VBA, Python, and PyPDF2, making the process simple, fast, and highly effective.
 
-### Important Information:
+## Important Information:
 The Loop Package Generator works only with Windows for now.
 
-### Set Up:
+## Set Up:
 **Step 01:**
 Download and install the latest version of Python from:
 
 www.python.org/downloads
 
-
+<p>&nbsp;</p>
 **Step 02:**
 
 Confirm Python & PyPDF2 installation by clicking "Verify & Install PyPDF2"
 
 **Note:** The PyPDF2 library will be automatically installed upon clicking the button.
 
-
+<p>&nbsp;</p>
 **Step 03:**
 Test the Loop Package Generator by clicking "Test Loop Package Generator"
 
 Once that is done you should see something like this:
 
-![image](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/2d4bfdce-0b62-4f85-a7ea-dab09487f245)
-![image](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/00bb38b8-6aa5-492c-a07d-e1f821c340f0)
 
 
-### How To Use:
+## How To Use:
 **Content:** The Loop Package Generator will come with the following sheets
 
  - **LOOP PACKAGES:** This sheet contains information regarding each loop package
@@ -42,7 +40,7 @@ When you open the Excel file for the first time, the following folders will be c
 **Step 01:** Update Project Information 
 Updating the project information is simple, just use the buttons provided
 
-![image](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/7b4ad1ec-e6fc-48be-8df3-40730c60b2b8)
+
 
 
 **Step 02:** Fill Out Loop Packages Sheet (An example is provided in the LOOP PACKAGES sheet)
