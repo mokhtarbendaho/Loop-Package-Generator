@@ -7,9 +7,11 @@ The Loop Package Generator works only with Windows for now.
 ### Set Up:
 **Step 01:**
 Download and install the latest version of Python from:
+
 www.python.org/downloads
 
 **Step 02:**
+
 Confirm Python & PyPDF2 installation by clicking "Verify & Install PyPDF2"
 
 **Note:** The PyPDF2 library will be automatically installed upon clicking the button.
