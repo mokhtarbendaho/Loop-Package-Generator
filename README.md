@@ -20,6 +20,8 @@ Test the Loop Package Generator by clicking "Test Loop Package Generator"
 Once that is done you should see something like this:
 
 ![image](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/2d4bfdce-0b62-4f85-a7ea-dab09487f245)
+![image](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/00bb38b8-6aa5-492c-a07d-e1f821c340f0)
+
 
 ### How To Use:
 **Content:** The Loop Package Generator will come with the following sheets
@@ -52,7 +54,7 @@ Updating the project information is simple, just use the buttons provided
 Copy your P&ID files and attachments to the newly created folders. For example, you can use Attachment 01 for your Instrument Data Sheet and Attachment 02 for Alarms Index, and so on
 
 **Step 04:** Verify for Errors						
-After filling out the information and copied the necessary files, it is recommended to verify your loops for errors and mistakes.
+After filling out the information and copying the necessary files, it is recommended to verify your loops for errors and mistakes.
 
 **Step 05:** Create Loop Packages
 After verification, click "Create Loop Packages" and check the Loop Packages Folder to find the results.
