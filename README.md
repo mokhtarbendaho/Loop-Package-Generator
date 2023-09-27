@@ -6,11 +6,12 @@ The Loop Package Generator works only with Windows for now.
 
 ### Set Up:
 **Step 01:**
-Download and install the latest version of Python from"
+Download and install the latest version of Python from:
 www.python.org/downloads
 
 **Step 02:**
 Confirm Python & PyPDF2 installation by clicking "Verify & Install PyPDF2"
+
 **Note:** The PyPDF2 library will be automatically installed upon clicking the button.
 
 **Step 03:**
@@ -28,4 +29,7 @@ Once that is done you should see something like this:
  - **AI, AO, DI, DO:** These sheets provide examples of record sheets
  - **Punch List:** This sheet contains the punch list template
 
+**Step 01:** Update Project Information 
+Updating the project information is simple, just use the buttons provided
 
+![image](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/7b4ad1ec-e6fc-48be-8df3-40730c60b2b8)
