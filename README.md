@@ -18,6 +18,10 @@ Test the Loop Package Generator by clicking "Test Loop Package Generator"
 
 Once that is done you should see something like this:
 
+<p align="center">
+  <img src="[https://picsum.photos/460/300](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/2d4bfdce-0b62-4f85-a7ea-dab09487f245)">
+</p>
+
 ![image](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/2d4bfdce-0b62-4f85-a7ea-dab09487f245)
 
 
