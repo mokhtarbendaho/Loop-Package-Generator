@@ -3,14 +3,11 @@ The Loop Package Generator is your solution for effortlessly automating the crea
 
 **What to expect from the Loop Package Generator:** 
 
-With one click you will have a:
+With one click you will have a LOOP PACKAGE containing:
 
 Front Page + Record Sheets + Attachments + Punch List + P&ID 
 
 All in one single PDF ready to use
-
-## Important Information:
-The Loop Package Generator works only with Windows for now.
 
 ## Set Up:
 **Step 01:**
@@ -91,3 +88,7 @@ If you wish to add a new record sheet, follow these steps:
 03. Click "OK" to generate the new record sheet.
 
 ![image8](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/21f5babd-1872-4c49-a4ff-472ccfd99978)
+
+
+## Important Information:
+The Loop Package Generator works only with Windows for now.
