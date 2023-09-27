@@ -21,13 +21,17 @@ Confirm Python & PyPDF2 installation by clicking "Verify & Install PyPDF2"
 
 **Note:** The PyPDF2 library will be automatically installed upon clicking the button.
 
+![Verifygif](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/90efb118-8629-4db9-b1cb-8b38b1a4ef74)
+
+
 **Step 03:**
 
 Test the Loop Package Generator by clicking "Test Loop Package Generator"
 
 Once that is done successfully you should see something like this:
 
-![image1](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/bf3b8769-3f4c-47ab-bed3-1a02e57d07ca)
+![testgif](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/f0a60659-8aea-4630-b673-8bf200295457)
+
 
 ## How To Use:
 **Content:** The Loop Package Generator will come with the following sheets
