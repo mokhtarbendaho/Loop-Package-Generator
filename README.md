@@ -10,22 +10,18 @@ Download and install the latest version of Python from:
 
 www.python.org/downloads
 
-<p>&nbsp;</p>
-
 **Step 02:**
 
 Confirm Python & PyPDF2 installation by clicking "Verify & Install PyPDF2"
 
 **Note:** The PyPDF2 library will be automatically installed upon clicking the button.
 
-<p>&nbsp;</p>
-
 **Step 03:**
 Test the Loop Package Generator by clicking "Test Loop Package Generator"
 
 Once that is done you should see something like this:
 
-
+![image1](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/bf3b8769-3f4c-47ab-bed3-1a02e57d07ca)
 
 ## How To Use:
 **Content:** The Loop Package Generator will come with the following sheets
@@ -38,6 +34,8 @@ Once that is done you should see something like this:
 When you open the Excel file for the first time, the following folders will be created automatically:
 - Attachments Folder, which will contain 10 subfolders and one for P&ID
 - Loop Packages Folder, where the final Loop Packages will be stored when created
+
+![image2](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/ebbc1890-866b-4399-9d77-05eae934bec2)
 
 **Step 01:** Update Project Information 
 Updating the project information is simple, just use the buttons provided
