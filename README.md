@@ -23,8 +23,6 @@ Once that is done successfully you should see something like this:
 
 ![image1](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/bf3b8769-3f4c-47ab-bed3-1a02e57d07ca)
 
-If Python is not installed or PyPDF2 failed to install
-
 ## How To Use:
 **Content:** The Loop Package Generator will come with the following sheets
 
@@ -57,8 +55,17 @@ Updating the project information is simple, just use the buttons provided
 **Step 03:**
 Copy your P&ID files and attachments to the newly created folders. For example, you can use Attachment 01 for your Instrument Data Sheet and Attachment 02 for Alarms Index, and so on
 
+![image4](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/fbd54b03-413d-4363-adb5-a45b4a03ad45)
+
 **Step 04:** Verify for Errors						
 After filling out the information and copying the necessary files, it is recommended to verify your loops for errors and mistakes.
+
+![image5](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/a7f0e5a7-8545-40b9-bb7a-4c11e5c65fa5)
+
+Errors:						
+ - **YELLOW COLOR:** Missing LOOP PACKAGE NUMBER or IO TYPE or TAG NAME
+ - **RED COLOR:** IO TYPE Does Not Have a Record Sheet
+ - **ORANGE COLOR**: File Not Found
 
 **Step 05:** Create Loop Packages
 After verification, click "Create Loop Packages" and check the Loop Packages Folder to find the results.
