@@ -88,6 +88,7 @@ This is a real example of the Loop Package Generator in use: (+200 Folder was cr
 ![image7](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/46a107b1-8331-4094-8610-238b7ec7f4a1)
 
 **Step 06:** Creation of New Record Sheet
+
 If you wish to add a new record sheet, follow these steps:
 01. Click "CREATE NEW RECORD SHEET" in the LOOP PACKAGES SHEET
 02. Write the record sheet name (ex, Digital Input, Analog Output) and type (ex, AI, AO, DI, DO).
