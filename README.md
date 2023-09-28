@@ -117,4 +117,5 @@ I hope this helps as it helps me and my team during our commissioning activities
 
 If you have any questions or need any help feel free to contact me.
 
-Email: bendaho;okhtar@g
+Email: bendahomokhtar@gmail.com
+LinkedIn: www.linkedin.com/in/mokhtar-bendaho/
