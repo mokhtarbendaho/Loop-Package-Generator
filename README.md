@@ -3,11 +3,15 @@ The Loop Package Generator is your solution for effortlessly automating the crea
 
 **What to expect from the Loop Package Generator:** 
 
-With one click you will have a LOOP PACKAGE containing:
+With one click you will have all your LOOP PACKAGES, each in a single PDF file containing a:
 
-Front Page + Record Sheets + Attachments + Punch List + P&ID 
+Front Page + Record Sheets + Attachments + Punch List + P&ID
 
-All in one single PDF ready to use
+By checking the following option in the main page:
+
+![image](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/8552dd39-2665-49a7-bd1b-c38c0eee6b22)
+
+ You have the option to add a blank A3 page at the end if there is no P&ID, this will be useful when printing in bulk, it will make it easier to separate the folders
 
 ## Set Up:
 **Step 01:**
