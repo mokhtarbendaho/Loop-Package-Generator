@@ -77,7 +77,7 @@ After copying the necessary files, fill out the Attachment section accordingly
 
 
 **Step 04:** Verify for Errors						
-After filling out the information and copying the necessary files, it is recommended to verify your loops for errors and mistakes. 
+After filling out the information and copying the necessary files, it is recommended to verify your loops for errors and mistakes, by clicking on **"VERIFY FOR ERRORS"**
 
 ![image5](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/a7f0e5a7-8545-40b9-bb7a-4c11e5c65fa5)
 
@@ -87,7 +87,7 @@ Errors:
  - **ORANGE COLOR**: File Not Found
 
 **Step 05:** Create Loop Packages
-After verification, click "Create Loop Packages" and check the Loop Packages Folder to find the results.
+After verification, click **"Create Loop Packages"** and check the Loop Packages Folder to find the results.
 
 This is what will you see as a result:
 
