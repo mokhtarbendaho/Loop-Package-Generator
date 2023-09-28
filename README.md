@@ -125,4 +125,4 @@ Email: bendahomokhtar@gmail.com
 LinkedIn: www.linkedin.com/in/mokhtar-bendaho/
 
 **Important Information:** The Loop Package Generator works only with Windows for now.
-**Disclaimer:** The record sheets in this workbook are for illustration only and should not be used without prior client approval and legal compliance. By using this Excel file, you agree to our terms and conditions.
+**Disclaimer:** The record sheets in this workbook are for illustration only and should not be used without prior client approval and legal compliance. By using this Excel file, you agree to our [terms and conditions](https://github.com/mokhtarbendaho/Loop-Package-Generator/blob/main/Terms%20and%20Conditions).
