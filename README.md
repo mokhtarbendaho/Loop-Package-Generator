@@ -1,3 +1,5 @@
+Download the Loop Package Generator in the files section above or [Click Here](https://github.com/mokhtarbendaho/Loop-Package-Generator/blob/main/Loop%20Package%20Generator%20V2.8.xlsm)
+
 ## Getting Started:
 The Loop Package Generator is your solution for effortlessly automating the creation of commissioning loop packages. It seamlessly incorporates all the essential files using VBA, Python, and PyPDF2, making the process simple, fast, and highly effective.
 
