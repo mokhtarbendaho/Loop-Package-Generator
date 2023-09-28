@@ -72,7 +72,7 @@ Copy your P&ID files and attachments to the newly created folders. For example, 
 ![image4](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/fbd54b03-413d-4363-adb5-a45b4a03ad45)
 
 **Step 04:** Verify for Errors						
-After filling out the information and copying the necessary files, it is recommended to verify your loops for errors and mistakes.
+After filling out the information and copying the necessary files, it is recommended to verify your loops for errors and mistakes. 
 
 ![image5](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/a7f0e5a7-8545-40b9-bb7a-4c11e5c65fa5)
 
