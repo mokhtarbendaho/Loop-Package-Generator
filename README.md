@@ -80,11 +80,11 @@ Errors:
 **Step 05:** Create Loop Packages
 After verification, click "Create Loop Packages" and check the Loop Packages Folder to find the results.
 
-This is a real example of the Loop Package Generator in use: (+200 Folder was created under 3mn)
+This is what will you see as a result:
 
-![image6](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/7cc91f6b-3ab6-4c4d-b184-553f947bcea5)
+![Uploading image6.png…]()
 
-![image7](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/46a107b1-8331-4094-8610-238b7ec7f4a1)
+![Uploading image7.png…]()
 
 **Step 06:** Creation of New Record Sheet
 
