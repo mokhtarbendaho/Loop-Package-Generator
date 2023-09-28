@@ -77,7 +77,7 @@ After copying the necessary files, fill out the Attachment section accordingly
 
 
 **Step 04:** Verify for Errors						
-After filling out the information and copying the necessary files, it is recommended to verify your loops for errors and mistakes, by clicking on **"VERIFY FOR ERRORS"**
+After filling out the information and copying the necessary files, it is recommended to verify your loops for errors and mistakes, by clicking on **"CHECK FOR ERRORS"**
 
 ![image5](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/a7f0e5a7-8545-40b9-bb7a-4c11e5c65fa5)
 
@@ -87,7 +87,7 @@ Errors:
  - **ORANGE COLOR**: File Not Found
 
 **Step 05:** Create Loop Packages
-After verification, click **"Create Loop Packages"** and check the Loop Packages Folder to find the results.
+After verification, click **"CREATE LOOP PACKAGES"** and check the Loop Packages Folder to find the results.
 
 This is what will you see as a result:
 
@@ -104,12 +104,17 @@ Also, by checking the following option on the main page:
 **Step 06:** Creation of New Record Sheet
 
 If you wish to add a new record sheet, follow these steps:
-01. Click "CREATE NEW RECORD SHEET" in the LOOP PACKAGES SHEET
+01. Click **"CREATE NEW RECORD SHEET"** in the LOOP PACKAGES SHEET
 02. Write the record sheet name (ex, Digital Input, Analog Output) and type (ex, AI, AO, DI, DO).
 03. Click "OK" to generate the new record sheet.
 
 ![image8](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/21f5babd-1872-4c49-a4ff-472ccfd99978)
 
-
-## Important Information:
+**Important Information:**
 The Loop Package Generator works only with Windows for now.
+
+I hope this helps as it helps me and my team during our commissioning activities.
+
+If you have any questions or need any help feel free to contact me.
+
+Email: bendaho;okhtar@g
