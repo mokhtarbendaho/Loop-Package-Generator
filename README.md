@@ -82,9 +82,9 @@ After verification, click "Create Loop Packages" and check the Loop Packages Fol
 
 This is what will you see as a result:
 
-![Uploading image6.png…]()
+![image6](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/f6531380-b885-4df6-9137-ee4ed9ae62e5)
 
-![Uploading image7.png…]()
+![image7](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/57bc013d-9d71-463f-a264-c06d5a4524bc)
 
 **Step 06:** Creation of New Record Sheet
 
