@@ -51,8 +51,7 @@ When you open the Excel file for the first time, the following folders will be c
 **Step 01:** Update Project Information 
 Updating the project information is simple, just use the buttons provided
 
-![image3](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/1a4eba8d-6231-47de-a856-25201ecb266e)
-
+![image3](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/00979de3-a95d-4d8b-821b-dba4649cdb2a)
 
 **Step 02:** Fill Out Loop Packages Sheet (An example is provided in the LOOP PACKAGES sheet)
 
