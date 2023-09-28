@@ -7,12 +7,6 @@ With one click you will have all your LOOP PACKAGES, each in a single PDF file c
 
 Front Page + Record Sheets + Attachments + Punch List + P&ID
 
-By checking the following option in the main page:
-
-![image](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/8552dd39-2665-49a7-bd1b-c38c0eee6b22)
-
- You have the option to add a blank A3 page at the end if there is no P&ID, this will be useful when printing in bulk, it will make it easier to separate the folders
-
 ## Set Up:
 **Step 01:**
 
@@ -38,8 +32,9 @@ Once that is done successfully you should see something like this:
 
 A PDF will be generated and opened automatically with a template of a loop package folder
 
-## How To Use:
-**Content:** The Loop Package Generator will come with the following sheets
+## Content:
+
+The Loop Package Generator will come with the following sheets
 
  - **LOOP PACKAGES:** This sheet contains information regarding each loop package
  - **Front Page:** This sheet serves as the cover of the loop package
@@ -51,6 +46,8 @@ When you open the Excel file for the first time, the following folders will be c
 - Loop Packages Folder, where the final Loop Packages will be stored when created
 
 ![image2](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/ebbc1890-866b-4399-9d77-05eae934bec2)
+
+## How To Use:
 
 **Step 01:** Update Project Information 
 Updating the project information is simple, just use the buttons provided
@@ -66,10 +63,18 @@ Updating the project information is simple, just use the buttons provided
  - **ASSOCIATED TAGS:** Up to 20 tags
  - **ATTACHMENTS**: Up to 10 attachments (PDF ONLY)
 
+![image9](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/93e1c9c4-a7a5-4a9c-9644-91f930509365)
+
+
 **Step 03:**
 Copy your P&ID files and attachments to the newly created folders. For example, you can use Attachment 01 for your Instrument Data Sheet and Attachment 02 for Alarms Index, and so on
 
 ![image4](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/fbd54b03-413d-4363-adb5-a45b4a03ad45)
+
+After copying the necessary files, fill out the Attachment section accordingly
+
+![image10](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/b0a9b7d7-073d-48ad-9b85-29dc8c2e97d1)
+
 
 **Step 04:** Verify for Errors						
 After filling out the information and copying the necessary files, it is recommended to verify your loops for errors and mistakes. 
@@ -89,6 +94,12 @@ This is what will you see as a result:
 ![image6](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/f6531380-b885-4df6-9137-ee4ed9ae62e5)
 
 ![image7](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/57bc013d-9d71-463f-a264-c06d5a4524bc)
+
+Also, by checking the following option on the main page:
+
+![image](https://github.com/mokhtarbendaho/Loop-Package-Generator/assets/143171867/8552dd39-2665-49a7-bd1b-c38c0eee6b22)
+
+ You have the option to add a blank A3 page at the end if there is no P&ID, this will be useful when printing in bulk, it will make it easier to separate the folders
 
 **Step 06:** Creation of New Record Sheet
 
